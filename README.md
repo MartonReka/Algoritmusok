@@ -4,9 +4,9 @@
 2. Kiveszem a zsebembol  a penzt amire szeretnek vasarolni egy colat
 3. Megnezem hogy hol talalom a colat
 4. Beteszem az automataba a penzt
-   4.1. ha pontos penzt teszek be akkor megnyomom  aayt a billentyu kombinaciot ami a colat tartalmazza,varok amig a gep kiadja nekem a colat
-   4.2. ha tobb penzt teszek be akkor miutan megnyomtam a colat tartalmazo billentyu kombinaciot, kiadta a colat, figyelmesztetem hogy nekem vissza kell adjon
- 5. Kiveszem a colat es ha van visszajaro akkor azt is vele egyutt
+   5. ha pontos penzt teszek be akkor megnyomom  aayt a billentyu kombinaciot ami a colat tartalmazza,varok amig a gep kiadja nekem a colat
+   6. ha tobb penzt teszek be akkor miutan megnyomtam a colat tartalmazo billentyu kombinaciot, kiadta a colat, figyelmesztetem hogy nekem vissza kell adjon
+   7. Kiveszem a colat es ha van visszajaro akkor azt is vele egyutt
 
 
 * Italautomata mukodesenek algoritmusa, az automata szemszogebol
