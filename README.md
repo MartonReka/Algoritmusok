@@ -14,7 +14,7 @@
 2. Megszamolom h mennyi osszeget kaptam
 2. Menyomtak a billentyu kombinaciot ami alapjan tudom h colat szeretnenek vasarolni
 3. Megnezem hogy elegendo osszeget kaptam
-   3.1. Ha nem kaptam pontos osszeget akkor nem adom ki a colat
-   3.2. Ha pontos penzt kaptam akkor kiadom a colat
-   3.3. Ha tobbet kaptam mind a cola ara akkor kiszamolom hogy mennyi penzt kell elvegyek a colaert, kiadom a colat es utanna a maradek penzt kiszamolom es elraktarozom a visszadando penzek koze
-   3.4 A vasarlo ha nem figyelmesytett egy gomb megnyomasaval hogy vissza kell adjak akkor a penz nallam marad mindaddig ameddig valaki nem nyomja meg a gombot
+4. Ha nem kaptam pontos osszeget akkor nem adom ki a colat
+5. Ha pontos penzt kaptam akkor kiadom a colat
+6. Ha tobbet kaptam mind a cola ara akkor kiszamolom hogy mennyi penzt kell elvegyek a colaert, kiadom a colat es utanna a maradek penzt kiszamolom es elraktarozom a visszadando penzek koze
+7. A vasarlo ha nem figyelmesytett egy gomb megnyomasaval hogy vissza kell adjak akkor a penz nallam marad mindaddig ameddig valaki nem nyomja meg a gombot
